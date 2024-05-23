@@ -14,7 +14,7 @@ export default function Home() {
    <div className="absolute w-28 left-0 -top-20 hidden lg:block ">
      <img src="/snake-1.png" className="w-full"/>
      </div>
-     <h1 className="relative w-fit tracking-tight  text-balance mt-16 font-bold !leading-tight text-gray-900 text-5xl md:text-6xl lg:text-7xl"> Your Image on a <span className="bg-green-600">Custom</span> Phone Case</h1>
+     <h1 className="relative w-fit tracking-tight  text-balance mt-16 font-bold !leading-tight text-gray-900 text-5xl md:text-6xl lg:text-7xl"> Your Image on a <span className="bg-violet-400">Custom</span> Phone Case</h1>
      <p className='mt-8 text-lg lg:pr-10 max-w-prose text-center lg:text-left text-balance md:text-wrap'>
                 Capture your favorite memories with your own ,
                 <span className='font-semibold'>one-of-one</span> phone case.
@@ -67,11 +67,11 @@ export default function Home() {
                 </div>
                 <div className='flex flex-col justify-between items-center sm:items-start'>
                   <div className='flex gap-0.5'>
-                    <Star className='h-4 w-4 text-green-600 fill-green-600' />
-                    <Star className='h-4 w-4 text-green-600 fill-green-600' />
-                    <Star className='h-4 w-4 text-green-600 fill-green-600' />
-                    <Star className='h-4 w-4 text-green-600 fill-green-600' />
-                    <Star className='h-4 w-4 text-green-600 fill-green-600' />
+                    <Star className='h-4 w-4 text-blue-600 fill-blue-600' />
+                    <Star className='h-4 w-4 text-blue-600 fill-blue-600' />
+                    <Star className='h-4 w-4 text-blue-600 fill-blue-600' />
+                    <Star className='h-4 w-4 text-blue-600 fill-blue-600' />
+                    <Star className='h-4 w-4 text-blue-600 fill-blue-600' />
                   </div>
                   <p>
                     <span className='font-semibold'>1.250</span> happy customers
